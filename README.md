@@ -1,1 +1,1 @@
-# Practise Typescript! simple-todo-typescript.github.io
+# Practice Typescript! simple-todo-typescript.github.io
